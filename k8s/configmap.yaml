@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: product-config
 data:
-  MONGO_URI: mongodb://mongo:27017/productdb
+  MONGO_URI: mongodb://mongo:27017/ecommerceshop
