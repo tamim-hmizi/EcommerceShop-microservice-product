@@ -1,0 +1,26 @@
+{
+  "name": "ecommerceshop-microservice-product",
+  "version": "1.0.0",
+  "description": "Ecommerce Shop microservice for prodcuts .",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamim-hmizi/EcommerceShop-microservice-product.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/tamim-hmizi/EcommerceShop-microservice-product/issues"
+  },
+  "homepage": "https://github.com/tamim-hmizi/EcommerceShop-microservice-product#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1"
+  }
+}
